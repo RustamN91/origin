@@ -1,0 +1,5 @@
+*_old
+tmp/
+*_backup
+img/Thumds.db
+img/.DS_Store
